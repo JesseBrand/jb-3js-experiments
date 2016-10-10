@@ -1,0 +1,16 @@
+{
+  "name": "jb-3js-experiments",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.3",
+    "paper-card": "PolymerElements/paper-card#^1.0.0",
+    "paper-input": "PolymerElements/paper-input#^1.0.0",
+    "jb-3js": "JesseBrand/threejs-polymer"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

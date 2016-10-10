@@ -1,0 +1,19 @@
+{
+  "name": "jb-3js-experiments",
+  "version": "0.0.1",
+  "description": "Experiments using my jb-3js library of polymer elements.",
+  "author": "Jesse Brand",
+  "directories": {
+    "serve": "."
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "express": "~4.12.4",
+    "polymer-serve": "^0.0.38"
+  },
+  "scripts": {
+    "serve": "polymer serve"
+  }
+}
