@@ -4,7 +4,7 @@
     "polymer": "Polymer/polymer#^1.0.3",
     "paper-card": "PolymerElements/paper-card#^1.0.0",
     "paper-input": "PolymerElements/paper-input#^1.0.0",
-    "jb-3js": "JesseBrand/threejs-polymer"
+    "jb-3js": "JesseBrand/threejs-polymer#master"
   },
   "ignore": [
     "**/.*",
